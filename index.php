@@ -196,7 +196,7 @@
                     </div>
                 </article>
             </div>
-            <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="POST">
+            <form action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>" method="POST" >
             <div class="contactMe" id="contactme">
                 <h2>Contact Me</h2>
                 <h3 class="field">Enter Your Name</h3>
